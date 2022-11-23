@@ -5,4 +5,4 @@
 
 Lunes 21 / Estructurado de HTML <br>
 Martes 22 / Estilizado CSS en curso <br>
-Miércoles 23 / Finalizo CSS <br>
+Miércoles 23 / Finalizo CSS del main, falta mediaqueries <br>
